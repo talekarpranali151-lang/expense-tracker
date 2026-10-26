@@ -1,0 +1,8 @@
+[
+  { "id": 1, "title": "Groceries", "amount": 1850, "category": "Food", "date": "2026-10-20" },
+  { "id": 2, "title": "Metro card recharge", "amount": 500, "category": "Transport", "date": "2026-10-21" },
+  { "id": 3, "title": "Electricity bill", "amount": 2300, "category": "Bills", "date": "2026-10-22" },
+  { "id": 4, "title": "Movie night", "amount": 750, "category": "Entertainment", "date": "2026-10-23" },
+  { "id": 5, "title": "Coffee with friends", "amount": 320, "category": "Food", "date": "2026-10-24" },
+  { "id": 6, "title": "Online course", "amount": 1499, "category": "Education", "date": "2026-10-25" }
+]
